@@ -35,11 +35,6 @@ GET http://localhost:3001/search?query=your search query
 }
 ```
 
-## Error Handling
-
-- If no query is provided, the API will return a 400 error
-- If an error occurs during the search, the API will return a 500 error
-
 ## Dependencies
 
 - Express.js
